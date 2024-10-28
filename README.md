@@ -1,6 +1,6 @@
 ## Minicurso de Python para o Cálculo Diferencial - TEMAT
 
-Este repositório contém código Python para auxiliar no aprendizado de conceitos básicos do cálculo diferencial. O código é organizado em um arquivo `calc_dif.py` e utiliza a biblioteca SymPy para realizar cálculos simbólicos.
+Este repositório contém código Python para auxiliar no aprendizado de conceitos básicos do cálculo diferencial. O código é organizado em um arquivo `calc_dif.ipynb` e utiliza a biblioteca SymPy para realizar cálculos simbólicos.
 
 ### Conteúdo do código:
 
