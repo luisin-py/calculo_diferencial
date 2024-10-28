@@ -34,6 +34,6 @@ O código inclui uma questão norteadora que envolve o cálculo do peso específ
 ### Recursos Adicionais:
 
 - Documentação da biblioteca SymPy: [https://docs.sympy.org/latest/index.html](https://docs.sympy.org/latest/index.html)
-- Tutoriais de Python: [https://www.w3schools.com/python/](https://www.w3schools.com/python/)
+
 
 **Este código serve como base para aprender os fundamentos do cálculo diferencial com a ajuda do Python. Utilize-o para praticar e aprofundar seus conhecimentos.**
